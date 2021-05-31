@@ -1,5 +1,5 @@
 - Hi, I’m @rachelnf
-- I’m interested in technical writing.
+- I’m interested in technical writing. Check out my portfolio site [here](https://rachelnf.github.io/).
 - I’m currently learning C++.
 - I’m looking to collaborate on any good-for-beginners projects needing documentation.
 
